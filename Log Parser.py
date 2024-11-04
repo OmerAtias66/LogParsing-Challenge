@@ -1,3 +1,4 @@
+# Built by Omer Atias
 import re
 
 # Log entry to parse
